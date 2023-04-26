@@ -1,0 +1,17 @@
+[
+    {
+    model = 'Nvdia geforce 1500',
+    speed: 3892,
+    times: {user: 25370, nice: 0, sys: 71010, idle: 81710690, irq: 0}
+},
+{
+    model = 'AMD radeon 5500',
+    speed: 3892,
+    times: {user: 25370, nice: 0, sys: 71010, idle: 81710690, irq: 0}
+},
+{
+    model = 'Intel on board',
+    speed: 3892,
+    times: {user: 25370, nice: 0, sys: 71010, idle: 81710690, irq: 0}
+}
+]
